@@ -1,0 +1,6 @@
+venv/
+playwright-profile/
+__pycache__/
+*.log
+*_log.txt
+.DS_Store
