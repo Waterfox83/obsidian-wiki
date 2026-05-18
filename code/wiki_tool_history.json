@@ -1,0 +1,8 @@
+[
+  {
+    "date": "2026-05-16",
+    "operation": "lint",
+    "subject": "wiki health check",
+    "details": "Issues found: 151\nBroken wikilinks: 0\nMissing raw sources: 19\nOrphan pages: 0\nUncovered raw markdown files: 132"
+  }
+]
